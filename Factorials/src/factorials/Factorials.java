@@ -25,6 +25,10 @@ Factorial = Factorial * i;
 
 }
     }
+    public static void vinskiWasHere(){
+     System.out.println("Vinski was here");
+ }
+
     }
 
 
