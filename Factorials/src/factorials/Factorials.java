@@ -28,6 +28,10 @@ Factorial = Factorial * i;
     public static void vinskiWasHere(){
      System.out.println("Vinski was here");
  }
+    
+    public static void TurrellWasHere(){
+     System.out.println("Turrell was here");
+ }
 
     }
 
